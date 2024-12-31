@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daz.io</title>
+    <link rel="stylesheet" href="Daz.io.css">
+</head>
+
+<body>
+    <div class="title">
+   <header>
+
+  <h1> MY HOMEPAGE YAY</h1>
+   </header>
+</div>
+<div class="main">
+<footer>
+   <p>This is a page for me to link my many projects</p>
+     <button>
+   <a href="Elecs server.html">Dicord server Website</a>
+    </button>
+
+
+</footer>
+</div>
+
+</body>
+</html>
